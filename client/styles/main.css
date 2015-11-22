@@ -1,0 +1,33 @@
+.site-title {
+	text-align: center;
+}
+
+.gamestyle-container {
+	margin-left: 20%;
+	margin-right: 20%;
+	border: 2px #999 dotted;
+	border-radius: 5px;
+}
+
+.gamestyle-container li {
+	font-size: 1.2em;
+	font-weight: 700;
+
+}
+
+.calculate {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-left: 40%;
+	margin-right: 40%;
+}
+
+.calculate button {
+	width: 100%;
+}
+
+.table-container {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
